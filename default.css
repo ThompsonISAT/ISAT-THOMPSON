@@ -280,10 +280,10 @@ hr
 #banner
 {
 	overflow: hidden;
-	width: 1500px;
-	height: 600px;
+	width: 1200px;
+	height: 400px;
 	padding: 0px 0px 0px 0px;
-	background: url(images/rec3new.jpg) no-repeat right top;
+	background: url(./ps12.jpg) no-repeat right top;
 	color: #FFFFFF;
 }
 
@@ -309,8 +309,8 @@ hr
 
 #banner p 
 {
-	color: #aaa;
-	font-size: 1.5em;
+	color: #ffffff;
+	font-size: 1.0em;
 	margin-bottom: 1.75em;
 	text-transform: uppercase;
 }
