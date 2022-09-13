@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0fb40841324554762f55da0ecddcf5c3cbb918136479bead317521524a9d6001
-size 175
+/* Note Codepen is importing the jQuery Background Video plugin - https://github.com/BGStock/jquery-background-video */
+
+$('.jquery-background-video').bgVideo({fadeIn: 2000});
